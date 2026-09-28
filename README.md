@@ -2,7 +2,7 @@
 
 **Full-Stack / AI Engineer** with 6+ years of experience building high-load platforms, LLM-powered services and internal enterprise tools. I like owning things end to end: architecture, backend, frontend, infrastructure and, when needed, the team.
 
-📍 [City, Country] · 🌐 Open to remote / relocation opportunities · 🗣️ Russian (native), English
+📍 [Batumi, Georgia] · 🌐 Open to remote / relocation opportunities · 🗣️ Russian (native), English
 
 ---
 
